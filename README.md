@@ -1,5 +1,5 @@
 
-added home page and search result page   
+
 This project is an automated test framework built for a Cleartrip-like travel booking application. It focuses on validating the core user flow of searching for flights using Selenium WebDriver and Java.
 
 The framework is designed using the Page Object Model (POM) to ensure scalability, maintainability, and clean separation of concerns.
